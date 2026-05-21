@@ -1,12 +1,15 @@
 {
   "name": "code_chai",
   "version": "1.0.0",
-  "description": "",
+  "description": "a backend at chai aur code channel - youtube",
   "license": "ISC",
   "author": "leo stanley",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "javascript, backend, chai"
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
