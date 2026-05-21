@@ -1,0 +1,12 @@
+{
+  "name": "code_chai",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "leo stanley",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript, backend, chai"
+  }
+}
